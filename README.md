@@ -57,5 +57,6 @@ El sistema debe cumplir con:
 ## PLAN DE PROYECTO
 ### Presupuesto
 <img width="937" height="365" alt="image" src="https://github.com/user-attachments/assets/a17ea541-3485-447b-b3db-f257006d4189" />
+
 ### Diagrama de Gantt																						
 <img width="2014" height="2579" alt="image" src="https://github.com/user-attachments/assets/7e7418c0-9770-4829-8e79-a73f4b2b5045" />
