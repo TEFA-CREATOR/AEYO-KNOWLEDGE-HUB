@@ -55,5 +55,5 @@ El sistema debe cumplir con:
 6.	Compatibilidad: ejecución en cualquier entorno que soporte Python. 
 7.	Mantenibilidad: código estructurado con clases y buenas prácticas. 
 ## PLAN DE PROYECTO
-
+### Presupuesto
 <img width="937" height="365" alt="image" src="https://github.com/user-attachments/assets/a17ea541-3485-447b-b3db-f257006d4189" />
