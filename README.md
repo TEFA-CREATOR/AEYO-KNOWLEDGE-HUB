@@ -55,16 +55,5 @@ El sistema debe cumplir con:
 6.	Compatibilidad: ejecución en cualquier entorno que soporte Python. 
 7.	Mantenibilidad: código estructurado con clases y buenas prácticas. 
 ## PLAN DE PROYECTO
-Actividad	Responsable	Horas	 Costo 
-Diseño y nombre del logo 	Todos 	2	 14.582,00 
-Descripción del software y objetivos generales 	Orleyder	4	 29.164,00 
-Diagrama de gantt y presupuesto	Anderson	5	 36.455,00 
-Licencia del software 	Yeison	3	 21.873,00 
-Investigar y subir la info a GITHUB en lenguaje MARKDOWN	Estefany	6	 43.746,00 
-Registro y gestion de libro 	Yeison	7	 51.037,00 
-Registro y gestion de usuarios	Orleyder	7	 51.037,00 
-Prestamos y devoluciones	Anderson 	7	 51.037,00 
-Integración e interfaz	Estefany	8	 58.328,00 
-Pruebas	Todos 	1	 7.291,00 
-TOTAL 		50	 357.259,00 
+
 <img width="937" height="365" alt="image" src="https://github.com/user-attachments/assets/a17ea541-3485-447b-b3db-f257006d4189" />
