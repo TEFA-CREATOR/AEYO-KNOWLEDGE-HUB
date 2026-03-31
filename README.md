@@ -29,7 +29,7 @@ Desarrollar un sistema que permita gestionar de manera eficiente los préstamos 
 4.	Consultar el estado de disponibilidad de los libros.
 5.	Generar un historial de movimientos de préstamo.
 6.	Reducir errores y pérdida de información en el proceso de gestión.
-## Beneficios del software
+## BENEFICIOS DEL SOFTWARE
 1.	Disminuye el tiempo necesario para registrar préstamos y devoluciones.
 2.	Facilita la búsqueda de libros y usuarios.
 3.	Mejora la organización de la biblioteca.
