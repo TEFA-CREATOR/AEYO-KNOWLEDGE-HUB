@@ -5,8 +5,6 @@ Software que permite organizar y registrar los movimientos de préstamos de libr
 ### Orleyder Cabrera Palacios
 ### Yeison Cortés Villada
 ### Anderson Restrepo Monsalve
-## Nombre del proyecto y detalles
-![Logo](Imagenes/LOGOAEYO.png)
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 Yeison Cortes Villada, estudiante de ingeniería industrial, 4to semestre, habilidades en liderazgo, generar estrategias y optimización de procesos. Como fortalezas, proactivo, empático, adaptado a los cambios. En el software aportaré el registro y gestión de libros y ayudare con las restricciones para los préstamos de libros al momento de alguien realizar la solicitud. 
 
@@ -15,7 +13,8 @@ Orleyder Cabrera Palacios, estudiante de séptimo semestre de ingeniería indust
 Anderson Restrepo Monsalve, estudiante de Ingeniería Industrial de quinto semestre, con experiencia laboral en laboratorio. Me caracterizo por ser una persona responsable, social y comprometida, con habilidades de liderazgo, comunicación y trabajo en equipo. Destaco por mi disposición para aprender, escuchar y aportar ideas que contribuyan al mejoramiento continuo. En el software aportaré los réstamos y devoluciones.
 
 Estefany Paola Arenilla Morro, soy estudiante de tercer semestre de ingeniería industrial, me caracterizo por mi disciplina, responsabilidad y compromiso en el desarrollo de las actividades académicas. Poseo habilidades de liderazgo, una actitud tolerante y una excelente disposición para el trabajo en equipo, lo que me permite integrarme de manera efectiva en entornos colaborativos. Me destaco por mi capacidad de adaptación al cambio, lo cual me facilita enfrentar nuevos retos y ajustarme de manera eficiente. Aportaré al desarrollo del proyecto una entrega constante, responsabilidad en el cumplimiento de tareas y total disposición para colaborar, apoyar a mis compañeros y contribuir al logro de los resultados propuestos. En el software aportaré la integración, interfaz y documentación.
-
+## Nombre del proyecto y detalles
+![Logo](Imagenes/LOGOAEYO.png)
 ## DESCRIPCIÓN GENERAL DEL SOFTWARE AEYO KNOWLEDGE HUB
 Es un software desarrollado en Python para la gestión de préstamos de libros en una biblioteca. Su propósito es organizar y registrar de manera estructurada la información relacionada con los libros, los usuarios y los movimientos de préstamo y devolución.
 El sistema permitirá automatizar procesos que normalmente se realizan de forma manual, reduciendo tiempos de búsqueda, errores en los registros y dificultades en el control de los libros disponibles. Además, facilitará la interacción entre el usuario y el sistema mediante un menú claro y organizado, permitiendo acceder a la información de manera rápida y eficiente.
