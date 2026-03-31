@@ -5,6 +5,7 @@ Software que permite organizar y registrar los movimientos de préstamos de libr
 ### Orleyder Cabrera Palacios
 ### Yeison Cortés Villada
 ### Anderson Restrepo Monsalve
+## Nombre del proyecto y detalles
 ![Logo](Imagenes/LOGOAEYO.png)
 ## VÍNCULOS ACADÉMICOS Y DESCRIPCIÓN
 Yeison Cortes Villada, estudiante de ingeniería industrial, 4to semestre, habilidades en liderazgo, generar estrategias y optimización de procesos. Como fortalezas, proactivo, empático, adaptado a los cambios. En el software aportaré el registro y gestión de libros y ayudare con las restricciones para los préstamos de libros al momento de alguien realizar la solicitud. 
