@@ -25,10 +25,9 @@ Desarrollar un sistema que permita gestionar de manera eficiente los préstamos 
 ### Objetivos específicos
 1.	Registrar y almacenar la información de los libros disponibles en la biblioteca.
 2.	Registrar los datos de los usuarios autorizados para realizar préstamos.
-3.	Permitir la creación y control de préstamos y devoluciones.
+3.	Crear un registro y control de préstamos y devoluciones de los ítems disponibles en el sistema.
 4.	Consultar el estado de disponibilidad de los libros.
 5.	Generar un historial de movimientos de préstamo.
-6.	Reducir errores y pérdida de información en el proceso de gestión.
 ## BENEFICIOS DEL SOFTWARE
 1.	Disminuye el tiempo necesario para registrar préstamos y devoluciones.
 2.	Facilita la búsqueda de libros y usuarios.
@@ -38,14 +37,23 @@ Desarrollar un sistema que permita gestionar de manera eficiente los préstamos 
 6.	Proporciona un historial de movimientos que facilita el seguimiento de los préstamos.
 7.	Favorece la toma de decisiones y la administración de los recursos bibliográficos.
 ## REQUISITOS FUNCIONALES
-El sistema debe:
-1.	Permitir registrar usuarios con nombre y apellido que estos tengan mínimo 3 letras y sin números, documento que tenga entre 3 y 15 dígitos solo números, correo electrónico válido y tiempo de préstamo en días. 
-2.	Permitir registrar ítems con nombre, categoría, ID único y estado del ítem.
-3.	Registrar préstamos solo a usuarios existentes, asociar ítem con usuario y controlar fechas de préstamo.
-4.	Registrar devoluciones validando si el usuario tiene préstamos activos y generar certificado de devolución.
-5.	Consultar estado de préstamos y listar ítems prestados. 
-6.	Módulo administrador con acceso desde usuario y contraseña 
-7.	Generar reportes totales de préstamos, devoluciones, ventas y pagos, además lista de usuarios y usuario con más y menos préstamos.
+1.	El usuario registra usuarios validando nombre, apellido, documento, correo electrónico y tiempo de préstamo.
+2.	El administrador registra ítems mediante categorías, estados, precio y generación automática de identificadores únicos.
+3.	El sistema valida los códigos de categorías y estados ingresados por el administrador.
+4.	El usuario registra préstamos únicamente si se encuentra previamente registrado en el sistema.
+5.	El sistema verifica la disponibilidad de los ítems antes de realizar un préstamo.
+6.	El sistema registra automáticamente la fecha y hora de cada préstamo realizado.
+7.	El sistema controla el estado de los préstamos mediante los estados ACTIVO y DEVUELTO.
+8.	El usuario registra devoluciones únicamente cuando existen préstamos activos asociados al usuario y al ítem.
+9.	El sistema genera automáticamente certificados de devolución en formato TXT.
+10.	El sistema genera facturas automáticas cuando el tiempo de préstamo excede el límite permitido.
+11.	El sistema calcula automáticamente impuestos y valor total en las facturas generadas.
+12.	El administrador exporta la información almacenada en archivos TXT hacia archivos CSV compatibles con Excel.
+13.	El administrador accede a funciones administrativas mediante autenticación de usuario y contraseña.
+14.	El administrador visualiza estadísticas básicas del sistema, como total de usuarios y préstamos registrados.
+15.	El sistema almacena permanentemente la información en archivos planos TXT.
+16.	El sistema valida errores de entrada para evitar registros inválidos o duplicados.
+17.	El administrador consulta el historial de préstamos y devoluciones para fines estadísticos y de control.
 ## REQUISITOS NO FUNCIONALES
 El sistema debe cumplir con:
 1.	Usabilidad: interfaz de consola clara, sencilla e intuitiva. 
