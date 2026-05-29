@@ -67,9 +67,7 @@ El sistema debe cumplir con:
 ### Presupuesto
 <img width="937" height="365" alt="image" src="https://github.com/user-attachments/assets/a17ea541-3485-447b-b3db-f257006d4189" />
 
-### Diagrama de Gantt																						
-[Descargar diagrama de Gantt y presupuesto en Excel](Entregables/diagramaYpresupuestoAEYO.xlsx)
-																																							
+### Diagrama de Gantt
 <img width="3092" height="2620" alt="image" src="https://github.com/user-attachments/assets/877dc4df-85ed-4cc9-bd07-c5dbfeead560" />
 
 <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Esta obra está bajo la licencia </font></font><a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Creative Commons Atribución-CompartirIgual 4.0 Internacional.</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
