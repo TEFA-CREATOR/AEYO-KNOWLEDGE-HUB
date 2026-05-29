@@ -69,6 +69,7 @@ El sistema debe cumplir con:
 ### Diagrama de Gantt
 <img width="3092" height="2620" alt="image" src="https://github.com/user-attachments/assets/877dc4df-85ed-4cc9-bd07-c5dbfeead560" />
 ### Plan de versionado
+
 <img width="707" height="863" alt="image" src="https://github.com/user-attachments/assets/8cfc0ade-7ed1-47f3-be8d-f6541e85b7bb" />
 
 <font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Esta obra está bajo la licencia </font></font><a href="https://creativecommons.org/licenses/by-sa/4.0/"><font dir="auto" style="vertical-align: inherit;"><font dir="auto" style="vertical-align: inherit;">Creative Commons Atribución-CompartirIgual 4.0 Internacional.</font></font></a><img src="https://mirrors.creativecommons.org/presskit/icons/cc.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/by.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;"><img src="https://mirrors.creativecommons.org/presskit/icons/sa.svg" alt="" style="max-width: 1em;max-height:1em;margin-left: .2em;">
