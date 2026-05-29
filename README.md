@@ -69,8 +69,9 @@ El sistema debe cumplir con:
 
 ### Diagrama de Gantt																						
 <img width="2014" height="2579" alt="image" src="https://github.com/user-attachments/assets/7e7418c0-9770-4829-8e79-a73f4b2b5045" />
-
-
+[Descargar diagrama de Gantt y presupuesto en Excel](Entregables/diagramaYpresupuestoAEYO.xlsx)
+																																							
+<img width="3092" height="2620" alt="image" src="https://github.com/user-attachments/assets/877dc4df-85ed-4cc9-bd07-c5dbfeead560" />
 
 [Actas](Entregables/ACTAS.pdf)
 
