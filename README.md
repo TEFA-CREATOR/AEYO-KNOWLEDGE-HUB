@@ -68,6 +68,7 @@ El sistema debe cumplir con:
 
 ### Diagrama de Gantt
 <img width="3092" height="2620" alt="image" src="https://github.com/user-attachments/assets/877dc4df-85ed-4cc9-bd07-c5dbfeead560" />
+
 ### Plan de versionado
 
 <img width="707" height="863" alt="image" src="https://github.com/user-attachments/assets/8cfc0ade-7ed1-47f3-be8d-f6541e85b7bb" />
